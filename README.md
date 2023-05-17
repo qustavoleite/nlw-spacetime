@@ -16,8 +16,7 @@ Aplicação de recordação de memórias, onde o usuário poderá adicionar à u
 ### 🚀 Tecnologias
 Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
-<img src="https://img.shields.io/static/v1?label=&message=HTML&color=orange&style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/static/v1?label=&message=CSS&color=blue&style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/static/v1?label=&message=HTML&color=orange&style=for-the-badge&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/static/v1?label=&message=CSS&color=blue&style=for-the-badge&logo=CSS3&logoColor=white"/>
 
 ### 📚 Aprendizados:
 
