@@ -11,17 +11,17 @@
 
 Aplicação de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano.
 
-### ✨ Tecnologias
+### 🚀 Tecnologias
 Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 <img src="https://img.shields.io/static/v1?label=&message=HTML&color=orange&style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/static/v1?label=&message=CSS&color=blue&style=for-the-badge&logo=CSS3&logoColor=white"/>
 
-### 📜 Aprendizados:
+### 📚 Aprendizados:
 
 - A propriedade object-fit no css
 
-###  🎨 Layout
+###  🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/KnAzTvAbsVlLrbeCcAikaO/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Explorer-(Community)-(Copy)?type=design&node-id=306-3&t=5CDLRQvCYxth8eG6-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
