@@ -27,6 +27,9 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 - A propriedade object-fit no css
 - Propriedade overflow-y no css
 - Propriedades do grid
+- Webkits da scrollbar
+- Keyframes/Animations
+- Media query
 
 <br>
 
