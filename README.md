@@ -36,7 +36,7 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ###  🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/KnAzTvAbsVlLrbeCcAikaO/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Explorer-(Community)-(Copy)?type=design&node-id=306-3&t=5CDLRQvCYxth8eG6-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1240071097028170811). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 <br>
 
