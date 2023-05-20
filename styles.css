@@ -80,6 +80,12 @@ nav {
   border-radius: 8px;
 }
 
+#border img {
+  border: 1px solid transparent;
+  background: linear-gradient(#d39e33, #ed5636, #633bbc) padding-box,
+    linear-gradient(260deg, #d39e33, #ed5636, #633bbc) border-box;
+}
+
 .memory:hover {
   transform: scale(1.1);
   opacity: 0.6;
@@ -120,6 +126,11 @@ aside img:nth-child(2) {
   border: 4px solid transparent;
   background: linear-gradient(#d39e33, #ed5636, #633bbc) padding-box,
     linear-gradient(260deg, #d39e33, #ed5636, #633bbc) border-box;
+  transition: 500ms ease-in-out;
+}
+
+aside img:nth-child(2):hover {
+  transform: scale(1.1);
 }
 
 aside p {

@@ -1,6 +1,6 @@
 # Cápsula do Tempo - Next Level Week Spacetime
 
-<img src="./assets/thumbnail.png" />
+<img src="./.github/preview.png" alt="Demonstração do projeto feito no NLW"/>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
@@ -11,7 +11,7 @@
 
 ### 💻 Projeto
 
-Aplicação de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano.
+Aplicação de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano de forma manualmente.
 
 <br>
 
@@ -30,6 +30,7 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 - Webkits da scrollbar
 - Keyframes/Animations
 - Media query
+- Comandos Git
 
 <br>
 
