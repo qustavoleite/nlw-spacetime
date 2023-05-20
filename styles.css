@@ -21,7 +21,8 @@ html {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #9e9ea0;
+  background: linear-gradient(#d39e33, #ed5636, #633bbc),
+    linear-gradient(260deg, #d39e33, #ed5636, #633bbc);
 }
 
 @keyframes entering {
@@ -37,7 +38,7 @@ html {
 
 body {
   font-family: "Roboto", sans-serif;
-  background-color: #121215;
+  background-color: #121211;
   color: #eaeaea;
 
   display: grid;
@@ -60,7 +61,6 @@ nav {
   gap: 16px;
   text-decoration: none;
   margin-bottom: 64px;
-  transition: 500ms ease-in-out;
 }
 
 .memory small {
@@ -75,20 +75,21 @@ nav {
 
 .memory img {
   width: 100%;
-  height: 280px;
+  height: 300px;
   object-fit: cover;
+  border-radius: 8px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.memory div {
+  width: 100%;
+  height: 300px;
+  overflow: hidden;
   border-radius: 8px;
 }
 
-#border img {
-  border: 1px solid transparent;
-  background: linear-gradient(#d39e33, #ed5636, #633bbc) padding-box,
-    linear-gradient(260deg, #d39e33, #ed5636, #633bbc) border-box;
-}
-
-.memory:hover {
+.memory:hover img {
   transform: scale(1.1);
-  opacity: 0.6;
 }
 
 .memory p {
@@ -136,6 +137,36 @@ aside img:nth-child(2):hover {
 aside p {
   font-size: 2rem;
   text-align: center;
+}
+
+section ul {
+  list-style: none;
+
+  display: flex;
+  flex-direction: column;
+}
+
+ul li a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #eaeaea;
+
+  padding: 12px 80px;
+  margin: 10px 0;
+
+  border: 1px solid #eaeaea;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: 200ms ease-in-out;
+}
+
+ul li a:hover {
+  transform: scale(1.1);
+  background-color: #7d5bc9;
+  color: #eaeaea;
+  border: none;
 }
 
 aside span {
